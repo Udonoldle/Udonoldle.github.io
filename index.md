@@ -15,7 +15,7 @@ Currently learning Japanese, Spanish, Chinese, and Korean. Wish to work for a co
 
 ---
 ## Work Journey  
-### <span style="color:orange;">Resort World's Theater Usher</span>
+### <span style="color:orange;">Resorts World's Theater Usher</span>
 **July 2024 – Present**  
 - Navigating the seating layout to get guests to their seats.
 - Resolving conflicts such as seating issues with empathy and within the guidelines
