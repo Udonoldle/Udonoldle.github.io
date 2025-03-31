@@ -3,5 +3,5 @@ plugins:
   - jekyll-remote-theme
 sass:
   sass_dir: _sass
-title: "" Empty Title #Empty Title
+title: "" #Empty Title
 description: "" # Empty Description
