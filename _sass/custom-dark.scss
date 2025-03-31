@@ -1,0 +1,7 @@
+// Override theme variables
+$body-bg: #1a1a1a !default;
+$body-color: #ffffff !default;
+$link-color: #58a6ff !default;
+
+// Import the theme’s Sass (midnight uses "dark" variables)
+@import "jekyll-theme-midnight";
