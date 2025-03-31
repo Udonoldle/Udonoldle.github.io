@@ -1,3 +1,11 @@
+---
+layout: default
+title: Your Resume
+---
+
+# Your Markdown content here...
+
+
 # <span style="color: lightpink; font-size: 2em;">Donald Batchelder</span>  
 Elastic Visionary | Passionate about creative Problem-Solving 
 
