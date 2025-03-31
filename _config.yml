@@ -1,2 +1,4 @@
-theme: jekyll-theme-midnight  # Dark theme built into GitHub Pages
+theme: jekyll-theme-midnight
+plugins:
+  - jekyll-remote-theme
 title: Donald Batchelder Resume
