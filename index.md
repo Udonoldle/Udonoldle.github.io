@@ -44,6 +44,7 @@ Currently learning Japanese, Spanish, Chinese, and Korean. Wish to work for a co
 *2023 • Sewing & Fitting • Wig Managing* 
 - Learned how to sew and everything to do with cosplaying and use that knowledge at conventions.
 - **Takeaway:** Learned I was a resourceful problem-solver by using budgeting and time-management skills to my advantage.
+
 ---
 ## <span style="color: tan;">Final Note</span>  
  Let's create something meaningful - where joy and order diverge into one.
