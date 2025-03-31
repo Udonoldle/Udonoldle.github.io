@@ -4,3 +4,19 @@ body {
 }
 /* Customize links, headers, etc. */
 a { color: #58a6ff; }
+
+/* Hide header, GitHub banner, and footer */
+.header, .footer, .github-corner {
+  display: none !important;
+}
+
+/* Remove title */
+.page-header {
+  display: none;
+}
+
+h1.site-title {
+  visibility: hidden;
+  height: 0;
+  margin: 0;
+}
