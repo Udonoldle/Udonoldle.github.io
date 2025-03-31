@@ -1,3 +1,7 @@
+---
+layout: default
+title: Donald Batchelder Resume
+---
 # <span style="color: lightpink; font-size: 2em;">Donald Batchelder</span>  
 Elastic Visionary | Passionate about creative Problem-Solving 
 
