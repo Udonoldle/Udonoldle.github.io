@@ -3,4 +3,5 @@ plugins:
   - jekyll-remote-theme
 sass:
   sass_dir: _sass
-title: My Resume
+title: "" Empty Title #Empty Title
+description: "" # Empty Description
