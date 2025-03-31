@@ -11,22 +11,22 @@ Elastic Visionary | Passionate about creative Problem-Solving
 
 ---
 ## Professional Goals
-Currently learning Japanese, Spanish, Chinese, and Korean. Wish to work for a company that values empathy and care for what they do. I have willingness to start at entry-level positions with potential to grow with the company.
+Currently learning Japanese, Spanish, Chinese, and Korean. Wish to work for a company that values empathy and care for what they do. Open to starting in entry-level positions with potential to grow with the company.
 
 ---
 ## Work Journey  
 ### <span style="color:orange;">Resort World's Theater Usher</span>
 **July 2024 – Present**  
-- Navigating the seating terrain to get guests to their seats.
+- Navigating the seating layout to get guests to their seats.
 - Resolving conflicts such as seating issues with empathy and within the guidelines
 - Treating every guest with care and urgency
  
 ### <span style="color:orange;">Retail Associate and Cashier HomeGoods</span>
-**Aug 2021 – January 2023**  
+**August 2021 – January 2023**  
 - Averaged 1000+ transactions monthly 
 - Maintained an organized and productive work environment 
-- Unloading trucks weakly
-- Established good relations with guests and co-workers
+- Unloading trucks weekly
+- Established positive relations with guests and co-workers
 
 ---
 ## Creative Projects
@@ -47,4 +47,4 @@ Currently learning Japanese, Spanish, Chinese, and Korean. Wish to work for a co
 
 ---
 ## <span style="color: tan;">Final Note</span>  
- Let's create something meaningful - where joy and order diverge into one.
+ Let's create something meaningful - where joy and order converge into one.
