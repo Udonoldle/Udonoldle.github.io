@@ -5,3 +5,13 @@ $link-color: #58a6ff !default;
 
 // Import the theme’s Sass (midnight uses "dark" variables)
 @import "jekyll-theme-midnight";
+
+/* Hide header, GitHub banner, and footer */
+.header, .footer, .github-corner {
+  display: none !important;
+}
+
+/* Remove title */
+.page-header {
+  display: none;
+}
